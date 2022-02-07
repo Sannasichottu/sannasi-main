@@ -27,16 +27,16 @@
 
 ## 😄 Cool Stats
 
-![Mounica's GitHub stats](https://github-readme-stats.vercel.app/api?username=mounicakadapagunta&show_icons=true&theme=radical)
+![sannasi GitHub stats](https://github-readme-stats.vercel.app/api?username=sannasi&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mounicakadapagunta&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sannasi&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounicakadapagunta&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannasi&layout=compact&theme=radical&langs_count=6)
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://twitter.com/mounicareddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mounicareddi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sannasi-m-58a9b421a/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounicakadapagunta" height="30" width="40" /></a>
+<a href="https://twitter.com/ChottuSannasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sannasi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sannasi-m-58a9b421a/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sannasi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sannasi_chotu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannasi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008169066805"target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg alt="sannasi" height="30" width="40" /></a>
 </p>
